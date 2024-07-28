@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Abhishek
 
 
-I am a ✨Software Engineer✨ with 2 years of experience in working with python and [object Object] 
+I am a ✨Software Engineer✨ with 2 years of experience working with python and [object Object] 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
